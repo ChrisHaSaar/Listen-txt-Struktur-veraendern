@@ -10,9 +10,9 @@ Dieses Repository enthält ein Python-Skript (`add_newlines.py`), das dazu dient
 
 Um das Skript zu verwenden, führen Sie es mit Python aus und geben Sie den Namen der Quelldatei (z.B. `liste.txt`) an:
 
-???
+```
 python add_newlines.py
-???
+```
 
 Folgen Sie den Anweisungen im Skript, um die Quelldatei zu spezifizieren und den Prozess zu starten.
 
